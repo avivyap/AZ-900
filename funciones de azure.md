@@ -1,0 +1,2 @@
+-----
+Azure Functions permite ejecutar código como servicio sin tener que administrar la plataforma o la infraestructura subyacentes. Azure Logic Apps es similar a Azure Functions, pero usa flujos de trabajo predefinidos en lugar de desarrollar su propio código.

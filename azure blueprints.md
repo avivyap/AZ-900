@@ -1,0 +1,2 @@
+--------
+**Azure Blueprints** sirve para **estandarizar y automatizar la implementación de entornos en Azure**, asegurando que todos los recursos se creen siguiendo las políticas y configuraciones definidas por una organización.
